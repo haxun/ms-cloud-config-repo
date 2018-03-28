@@ -1,0 +1,15 @@
+
+
+---
+spring:
+  profiles: dev
+
+
+provider: provider-dev
+
+---
+spring:
+  profiles: prod
+
+
+provider: provider-prod

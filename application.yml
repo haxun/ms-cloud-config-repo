@@ -1,0 +1,13 @@
+
+---
+spring:
+  profiles: dev
+
+common: application-common-dev-config
+
+
+---
+spring:
+  profiles: prod
+
+common: application-common-prod-config

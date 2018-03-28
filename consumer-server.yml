@@ -1,0 +1,14 @@
+
+---
+spring:
+  profiles: dev
+
+
+consumer: consumer-dev
+
+---
+spring:
+  profiles: prod
+
+
+consumer: consumer-prod
