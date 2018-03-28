@@ -4,11 +4,11 @@ spring:
   profiles: dev
 
 
-consumer: consumer-dev
+consumer: consumer-dev-develop
 
 ---
 spring:
   profiles: prod
 
 
-consumer: consumer-prod
+consumer: consumer-prod-develop

@@ -5,11 +5,11 @@ spring:
   profiles: dev
 
 
-provider: provider-dev
+provider: provider-dev-develop
 
 ---
 spring:
   profiles: prod
 
 
-provider: provider-prod
+provider: provider-prod-develop

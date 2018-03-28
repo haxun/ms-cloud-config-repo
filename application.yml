@@ -3,11 +3,11 @@
 spring:
   profiles: dev
 
-common: application-common-dev-config
+common: application-common-dev-config-develop
 
 
 ---
 spring:
   profiles: prod
 
-common: application-common-prod-config
+common: application-common-prod-config-develop
